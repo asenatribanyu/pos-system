@@ -1,0 +1,21 @@
+# Global
+node_modules/
+.env
+*.log
+.DS_Store
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/.next/
+frontend/dist/
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/coverage/
+
+# Editor & OS
+.vscode/
+.idea/
